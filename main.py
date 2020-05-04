@@ -1,4 +1,4 @@
-#Autor:Evgeni Pogoster
+#Author:Evgeni Pogoster
 #Tic Tac Toe Game 
 
 #Initilization of paramaeters
